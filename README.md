@@ -8,9 +8,9 @@ Libft: 42 C project for learning standard library functions and memory managemen
 
 The project focuses on reimplementing a selected subset of standard C library functions, along with additional utility functions. The resulting library is designed to serve as a long-term dependency for subsequent C projects.
 
-* Subject : libft subject available in october 2025 - Version 18.??
-* Validation date: **October 2025** - 42 Vienna
-* Final evaluation score: **125 / 100**
+* Subject : libft subject available in october 2025 - Version 18.--
+* Validation date: October 2025 - 42 Vienna
+* Final evaluation score: 125 / 100
 
 
 ---
